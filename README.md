@@ -9,3 +9,7 @@ vidyadhargunpal/vidyadhargunpal is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 Visit my official website: https://narega.net/
+Visit my other articles:
+https://narega.net/nrega-job-card-list/
+https://narega.net/e-shram-portal-registration/
+https://narega.net/labour-card-online-apply/
